@@ -1,0 +1,606 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* first section */
+
+.come {
+  background-color:aliceblue;
+  box-shadow: 5px 10px black;
+}
+
+.medo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+}
+.fa-lock {
+  margin-top: 13px;
+  margin-left: 15px;
+}
+.zero {
+  background-color: green;
+  height: 22px;
+  width: 20px;
+  color: white;
+  border-radius: 2px;
+  text-align: center;
+}
+#mod {
+  color: black;
+}
+
+/* second section */
+
+.main {
+  background-image: url(/images/hero4.png);
+  background-color: #cccccc;
+  width: 100%;
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 600px;
+  margin-left: 6%;
+}
+.mo h5 {
+  flex-basis: 5px;
+  margin-top: 10px;
+}
+.h {
+  font-size: 50px;
+  flex-basis: 85px;
+}
+.n {
+  font-size: 50px;
+  color: green;
+  flex-basis: 85px;
+}
+.mon {
+  background-image: url("/images/button.png");
+  background-color: white;
+  height: 30px;
+  width: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+.a1 {
+  margin-left: 30px;
+  color: green;
+  font-size: 20px;
+}
+.mo h6 {
+  flex-basis: 40px;
+}
+
+/* third section */
+
+.row {
+  margin-top: 45px;
+}
+.row {
+  column-gap: 10px;
+}
+
+.k1 {
+  background-color: pink;
+  color: green;
+  font-size: 20px;
+  border-radius: 5px;
+  height: 30px;
+}
+.k2 {
+  background-color: chartreuse;
+  color: green;
+  font-size: 20px;
+  border-radius: 5px;
+  height: 30px;
+}
+.k3 {
+  background-color: lightcyan;
+  color: green;
+  font-size: 20px;
+  border-radius: 5px;
+  height: 30px;
+}
+.k4 {
+  background-color: mediumpurple;
+  color: green;
+  font-size: 20px;
+  border-radius: 5px;
+  height: 30px;
+}
+.k5 {
+  background-color: hotpink;
+  color: green;
+  font-size: 20px;
+  border-radius: 5px;
+  height: 30px;
+}
+.k6 {
+  background-color: gold;
+  color: green;
+  font-size: 20px;
+  border-radius: 5px;
+  height: 30px;
+}
+.bom {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 10px;
+  margin-left: 28px;
+}
+
+.momo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.momo {
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+.ded {
+  row-gap: 10px;
+  column-gap: 40px;
+  border-radius: 2rem;
+  margin-bottom: 30px;
+}
+.done {
+  color: green;
+}
+.pep {
+  row-gap: 20px;
+  column-gap: 40px;
+  border-radius: 2rem;
+  margin-bottom: 30px;
+}
+.fa-solid {
+  color: yellow;
+}
+.col {
+  color: green;
+}
+.rounded-3 {
+  border-radius: 2.3rem !important;
+}
+.em1 {
+  color: red;
+}
+.dv {
+  border: 1px solid greenyellow;
+}
+/* forth section */
+.col {
+  display: inline;
+}
+.coco {
+  color: green;
+  margin-top: 5px;
+}
+.dark {
+  display: flex;
+  justify-content: space-around;
+}
+.db {
+  margin-top: 10px;
+  border-radius: 20px;
+}
+.dm {
+  border: 1px solid greenyellow;
+  margin-top: 10px;
+}
+
+/* fifth section */
+
+.head {
+  background-image: url(/images/b2.jpg);
+  background-color: white;
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.head1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 50px;
+}
+.head1 {
+  margin-top: 20px;
+}
+.head1 button {
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.head1 h3 {
+  margin-top: 80px;
+}
+/* sixth section */
+.pepo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+/* seventh section */
+.long {
+  display: flex;
+  justify-content: space-around;
+}
+.done {
+  display: inline;
+  margin-right: 180px;
+}
+.tot {
+  color: green;
+  margin-top: 6px;
+}
+.dc {
+  margin-top: 10px;
+  border-radius: 20px;
+}
+.dn {
+  border: 1px solid greenyellow;
+  margin-top: 20px;
+}
+/* eighth section */
+
+.cara {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+.sed1 {
+  background-image: url(/images/b17.jpg);
+  background-color: white;
+  height: 400px;
+  width: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.sed1 {
+  color: white;
+}
+.sed1 button {
+  border-radius: 2px;
+  width: 150px;
+  height: 50px;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+.sem1 {
+  margin-left: 30px;
+}
+.sed2 {
+  background-image: url(/images/b10.jpg);
+  background-color: white;
+  height: 400px;
+  width: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.sed2 {
+  color: white;
+}
+.sed2 button {
+  border-radius: 2px;
+  width: 150px;
+  height: 50px;
+  margin-top: 12px;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+.sed2 h1 {
+  font-size: 20px;
+}
+.cara1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.sed3 {
+  background-image: url(/images/b7.jpg);
+  background-color: white;
+  height: 200px;
+  width: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.sed3 h1 {
+  color: white;
+}
+.sed3 p {
+  color: red;
+}
+.sem2 {
+  margin-left: 30px;
+}
+.sed4 {
+  background-image: url(/images/b4.jpg);
+  background-color: white;
+  height: 200px;
+  width: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.sed4 h1 {
+  color: white;
+}
+.sed4 p {
+  color: red;
+}
+.cara2 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 32px;
+}
+.sed5 {
+  background-image: url(/images/b18.jpg);
+  background-color: white;
+  height: 250px;
+  width: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.sed5 h1 {
+  color: white;
+}
+.sed5 p {
+  color: red;
+}
+.sem3 {
+  margin-left: 30px;
+}
+
+/*  ninth section */
+
+.lion {
+  background-image: url(/images/b1.jpg);
+  background-color: white;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 50px;
+}
+.lion {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.bad {
+  color: white;
+}
+.em2 {
+  color: orange;
+}
+.d-flex {
+  width: 500px;
+}
+
+/* last section */
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  margin-top: 50px;
+}
+.div1 {
+  flex-basis: 30em;
+}
+.div2 {
+  flex-basis: 17em;
+}
+.div3 {
+  flex-basis: 20em;
+}
+.div1 img {
+  margin-bottom: 20px;
+}
+.div1 h1 {
+  font-size: medium;
+}
+.div2 h2 {
+  font-size: small;
+}
+.div2 h1 {
+  font-size: 30px;
+}
+.div3 h2 {
+  font-size: small;
+}
+.div3 h1 {
+  font-size: 30px;
+}
+.div4 h1 {
+  font-size: 30px;
+}
+.div5 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.div5 img {
+  border: 2px solid blue;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+.finish {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.finish h1 {
+  margin-top: 50px;
+  font-size: small;
+}
+@media screen and (max-width: 1000px) {
+  .main {
+    background-image: none;
+   background-color: aliceblue;
+  }
+  
+}
+@media screen and (max-width: 1000px) {
+  .mo {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .ses {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .pep {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .ded {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .pop {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .bom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .ped {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .sed1 {
+    margin-left: 3px;
+    margin-bottom: 30px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .sed3 {
+    margin-bottom: 30px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .cara {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .cara1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .cara2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 35px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .div2 {
+    margin-left: 35px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .div3 {
+    margin-left: 35px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .div4 {
+    margin-left: 35px;
+  }
+}
